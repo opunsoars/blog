@@ -11,6 +11,12 @@ showFullContent = false
 +++
 Well, hello there.
 
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    This is <strong>raw HTML</strong>, inside Markdown.
+  </p>
+{{< /rawhtml >}}
+
 Welcome to this blog/portfolio. Some of the data crunching projects I have done will be collated here. Hope to keep this blog a mutually beneficial experience.
 _For you, and for me._ :) 
 
